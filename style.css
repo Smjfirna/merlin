@@ -7,15 +7,15 @@ navbar{
     background-color: black;
 }
 .nav-link{
-    color: #33272a;
+    color: black;
     font-size: 1rem;
     font-weight: 700;
     cursor: pointer;
     text-decoration: none;
 }
 .nav-link:hover{
-    color: whitesmoke;
-    background-color: #16161a;
+    color: white;
+    background-color: black;
 }
 .navbar-brand{
     font-size: 1.25rem;
