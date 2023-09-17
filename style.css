@@ -1,14 +1,15 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-navbar{
+.navbar {
     background-color: #fef6e4;
     box-shadow: #fff;
 }
-.nav-link{
+
+.nav-link {
     color: #001858;
     font-size: 1rem;
     font-weight: 600;
@@ -16,10 +17,12 @@ navbar{
     margin-right: 20px;
     text-decoration: none;
 }
-.nav-link:hover{
+
+.nav-link:hover {
     color: #fef6e4;
     background-color: #001858;
 }
+
 .navbar-brand{
     font-size: 1.25rem;
     font-weight: 800;
